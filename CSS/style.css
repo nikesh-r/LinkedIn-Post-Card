@@ -876,7 +876,7 @@ img.comment-user-img {
 p.c-card-name {
   font-weight: 500;
   padding: 10px 15px 0px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   width: 100%;
   position: relative;
   text-overflow: ellipsis;
@@ -890,7 +890,7 @@ img.c-card-dots-img {
 }
 
 .c-card-name span {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: grey;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -898,7 +898,7 @@ img.c-card-dots-img {
 
 p.c-card-desc {
   padding-left: 15px;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 500;
   color: grey;
   text-overflow: ellipsis;
@@ -906,7 +906,7 @@ p.c-card-desc {
 }
 
 p.c-card-time {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: grey;
   padding-left: 15px;
   font-weight: 400;
@@ -916,7 +916,7 @@ p.c-card-comment {
   padding: 15px 0;
   padding-left: 15px;
   padding-right: 5px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .c-card-respond {
